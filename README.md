@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kaizen007-hash
 - 👀 I’m interested in data visualization libararies, ROS2 Programming, IoTs and Big Data Analytics.
-- 🌱 I’m currently learning flask.
+- 🌱 I have worked on Object Detection, Segmentation, Tracking for Monitoring and Surveillance Systems using video data from UAV Drones. And lots more relating to perception, reasoning, and action.
 - 💞️ I’m looking to collaborate on ROS2 development.
 - 📫 How to reach me, my profile.
 - 😄 Pronouns: ... HE
